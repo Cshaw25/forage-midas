@@ -10,4 +10,5 @@ public class MidasCoreApplication {
         SpringApplication.run(MidasCoreApplication.class, args);
     }
 
+//mvn -Dtest=TaskOneTests test
 }
